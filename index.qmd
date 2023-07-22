@@ -39,8 +39,9 @@ Hello, I'm Jing Wang, a Ph.D. student in the Department of Statistics at Univeri
 
 # Teaching Experiences
 
-- STAT 1000Q. Introduction to Statistics I (027D-029D), Fall 2022
 - STAT 1100Q. Elements of Statistics (018D,032D), Spring 2023
+- STAT 1000Q. Introduction to Statistics I (027D-029D), Fall 2022
+
 
 # Skills
 
