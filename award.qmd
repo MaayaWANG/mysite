@@ -1,0 +1,27 @@
+---
+title: "Honors"
+---
+
+# Awards and Scholarships
+
+-   MassMutual Student Paper Award. 36th New England Statistics Symposium, Jun. 2023
+-   Summer Fellowship. Department of Statistics, University of Connecticut, Jun. 2023
+-   Fairfield & Dolores Smith Award. Department of Statistics, University of Connecticut, Oct. 2022
+-   Gottfried Noether Award. Department of Statistics, University of Connecticut, Oct. 2022
+-   Munich RE/HSB Student Poster Award. 34th New England Statistics Symposium, Sep. 2021
+-   Best student paper (2nd class). 15th seminar of Uniform design Profession Commitee of CMS, Jun. 2021
+-   Admission scholarship. Academy of Mathematics and Systems Science, CAS, Sep. 2018
+-   Distinguished Graduates. Central South Univerisity, Jun. 2018
+-   National scholarship. Central South University, Nov. 2017
+-   First class prize. National Mathematics Competition for College Students, Nov. 2016
+-   Honorable Mention in Probability and Statistics. 2016 S.T. Yau College Mathematics Contests, Jul. 2016  
+
+# Conference Presentations
+
+-   Scale-invariant optimal sampling and variable selection with rare-events data, 2023 seminar on design of experiments and uncertainty quantification, Academy of mathematics and Systems Science, Chinese Academy of Sciences, Jun. 25 2023
+
+
+-   Scale-invariant optimal sampling and variable selection with rare-events data, 6th international conference on design of experiments, University of Menphis, May 9-11, 2023
+
+
+-   Unweighted estimation based on optimal sample under measurement constraints, 2022 joint statistical meetings, Washington D.C., August 6-11, 2022

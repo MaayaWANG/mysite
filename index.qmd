@@ -1,0 +1,49 @@
+---
+title: "Jing Wang"
+image: photo.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links:
+    - text: Github
+      href: https://github.com/MaayaWANG
+    - text: Email
+      href: mailto:jing.7.wang@uconn.edu
+    - text: Google scholar
+      href: https://scholar.google.com/citations?user=SSwQQ5EAAAAJ&hl=en
+---
+
+Hello, I'm Jing Wang, a Ph.D. student in the Department of Statistics at Univerisity of Connecticut. My research focuses on subsampling algorithms, rare-events data analysis, and transfer learning. I am currently working as a teaching assistant and a research assistant in the Department of Statistics at Uconn.
+
+# Education
+
+-   **University of Connecticut**, Sep. 2021-present  
+    *Ph.D. student in Statistics*
+-   **Academy of Mathematics and Systems Science,**  
+    **Chinese Academy of Sciences**, Sep. 2018-Jun. 2021  
+    *M.S. in Statistics*
+-   **Central South University**, Sep. 2014-Jun. 2018  
+    *B.S. in Mathematics and applied mathematics*
+
+# Positions
+
+-   **Department of statistics, University of Connecticut**,    
+    *Research assistant*, Storrs, CT, Jan., 2022-present
+-   **Department of statistics, University of Connecticut**,    
+    *Teaching assistant*, Storrs, CT, Sep., 2021-present
+-   **Academy of Mathematics and Systems Science,**  
+    **Chinese Academy of Sciences**,    
+    *Research assistant*, Beijing, China, Sep., 2019-Jun.2021
+
+
+# Teaching Experiences
+
+- STAT 1000Q. Introduction to Statistics I (027D-029D), Fall 2022
+- STAT 1100Q. Elements of Statistics (018D,032D), Spring 2023
+
+# Skills
+
+-   Programming languages: julia, R, python, Matlab
+-   Editorial tool: LaTeX, Emacs, VS code
+-   Other tools: Linux, git, github

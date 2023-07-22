@@ -1,0 +1,11 @@
+---
+title: "Publications"
+---
+
+-   ***Wang Jing***, Zou Jiahui, and Wang HaiYing (2022). Sampling with replacement vs Poisson sampling: a comparative study in optimal sampling. IEEE Transactions on Information Theory, 68(10), 6605-6630.
+
+
+-   ***Wang Jing***, Wang HaiYing, and Xiong Shifeng (2022). Unweighted estimation based on optimal sample under measurement constraints. Canadian Journal of Statistics.
+
+
+

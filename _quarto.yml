@@ -1,22 +1,21 @@
----
 project:
   type: website
   output-dir: docs
----
-
 website:
-  title: "mysite"
+  title: "Jing Wang"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - pub.qmd
+      - award.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
+    page-layout: full
     toc: true
 
-
+editor: visual
 
