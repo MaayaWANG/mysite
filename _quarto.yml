@@ -9,6 +9,7 @@ website:
         text: Home
       - pub.qmd
       - award.qmd
+      - cv.qmd
 
 format:
   html:
