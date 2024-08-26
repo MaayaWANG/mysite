@@ -1,0 +1,30 @@
+# Publications
+
+::: {#list}
+:::
+
+::: {#refs .references .csl-bib-body .hanging-indent entry-spacing="1" line-spacing="2"}
+::: {#ref-wang2024sparse .csl-entry}
+Wang, J., Wang, H., & Zhang, H. H. (n.d.). Scale-invariant optimal
+sampling for rare-events data with sparse models. *Submitted to Neural
+Information Processing Systems*.
+:::
+
+::: {#ref-wang2024unweighted .csl-entry}
+Wang, J., Wang, H., & Xiong, S. (2024). Unweighted estimation based on
+optimal sample under measurement constraints. *Canadian Journal of
+Statistics*, *52*(1), 291--309.
+:::
+
+::: {#ref-wang2023discussion .csl-entry}
+Wang, J., Wang, H., & Chen, K. (2023). [Discussion of "Statistical
+inference for streamed longitudinal data"]{.nocase}. *Biometrika*,
+*110*(4), 863--866.
+:::
+
+::: {#ref-wang2022sampling .csl-entry}
+Wang, J., Zou, J., & Wang, H. (2022). Sampling with replacement vs
+poisson sampling: A comparative study in optimal subsampling. *IEEE
+Transactions on Information Theory*, *68*(10), 6605--6630.
+:::
+:::

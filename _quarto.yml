@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - pub.qmd
+      - pubs.qmd
       - award.qmd
       - cv.qmd
 
