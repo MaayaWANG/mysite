@@ -22,10 +22,14 @@ title: "Honors"
 
 # Conference Presentations
 
+-   Subsampling for transfer learning, 37th New England statistis symposium, University of Connecticut, Storrs, Connecticut, May 24, 2024
+
 -   Scale-invariant optimal sampling and variable selection with rare-events data, 2023 seminar on design of experiments and uncertainty quantification, Academy of mathematics and Systems Science, Chinese Academy of Sciences, Jun. 25 2023
 
 
--   Scale-invariant optimal sampling and variable selection with rare-events data, 6th international conference on design of experiments, University of Menphis, May 9-11, 2023
+-   Scale-invariant optimal sampling and variable selection with rare-events data, 6th international conference on design of experiments, University of Memphis, Memphis, Tennessee, May 9-11, 2023
 
 
 -   Unweighted estimation based on optimal sample under measurement constraints, 2022 joint statistical meetings, Washington D.C., August 6-11, 2022
+
+-   Unweighted estimation based on optimal sample under measurement constraints, 15th seminar of Uniform design Profession Committee of CMS, Zhongnan University of Economics and Law, Wuhan, China, Jun., 2021
