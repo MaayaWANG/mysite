@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\n\n\n\n\nWang, J., Wang, H., & Zhang, H. H. (n.d.). Scale-invariant optimal sampling for rare-events data with sparse models. Neural Information Processing Systems 2024, to Appear.\n\n\nWang, J., Wang, H., & Xiong, S. (2024). Unweighted estimation based on optimal sample under measurement constraints. Canadian Journal of Statistics, 52(1), 291–309.\n\n\nWang, J., Wang, H., & Chen, K. (2023). Discussion of “Statistical inference for streamed longitudinal data”. Biometrika, 110(4), 863–866.\n\n\nWang, J., Zou, J., & Wang, H. (2022). Sampling with replacement vs poisson sampling: A comparative study in optimal subsampling. IEEE Transactions on Information Theory, 68(10), 6605–6630."
+  },
+  {
     "objectID": "pub.html",
     "href": "pub.html",
     "title": "Publications",
     "section": "",
     "text": "Wang Jing, Zou Jiahui, and Wang HaiYing (2022). Sampling with replacement vs Poisson sampling: a comparative study in optimal sampling. IEEE Transactions on Information Theory, 68(10), 6605-6630.\nWang Jing, Wang HaiYing, and Xiong Shifeng (2022). Unweighted estimation based on optimal sample under measurement constraints. Canadian Journal of Statistics."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jing Wang",
-    "section": "",
-    "text": "Hello, I’m Jing Wang, a Ph.D. student in the Department of Statistics at Univerisity of Connecticut. My research focuses on subsampling algorithms, rare-events data analysis, and transfer learning. I am currently working as a teaching assistant and a research assistant in the Department of Statistics at Uconn.\n\nEducation\n\nUniversity of Connecticut, Sep. 2021-present\nPh.D. student in Statistics\nAcademy of Mathematics and Systems Science,\nChinese Academy of Sciences, Sep. 2018-Jun. 2021\nM.S. in Statistics\nCentral South University, Sep. 2014-Jun. 2018\nB.S. in Mathematics and applied mathematics\n\n\n\nPositions\n\nDepartment of statistics, University of Connecticut,\nResearch assistant, Storrs, CT, Jan., 2022-present\nDepartment of statistics, University of Connecticut,\nTeaching assistant, Storrs, CT, Sep., 2021-present\nAcademy of Mathematics and Systems Science,\nChinese Academy of Sciences,\nResearch assistant, Beijing, China, Sep., 2019-Jun.2021\n\n\n\nTeaching Experiences\n\nSTAT 1100Q. Elements of Statistics (018D,032D), Spring 2023\nSTAT 1000Q. Introduction to Statistics I (027D-029D), Fall 2022\n\n\n\nSkills\n\nProgramming languages: julia, R, python, Matlab\nEditorial tool: LaTeX, Emacs, VS code\nOther tools: Linux, git, github"
   },
   {
     "objectID": "cv.html",
@@ -28,11 +28,11 @@
     "text": "Awards and Scholarships\n\nSummer Fellowship. Department of Statistics, University of Connecticut, May, 2024\nPre-doctoral Fellowship. Department of Statistics, University of Connecticut, Jan., 2024\nBest Performance in Probability. Department of Statistics, Univerisity of Connecticut, Oct. 2023\nBest Performance in Inference. Department of Statistics, University of Connecticut, Oct. 2023\nMassMutual Student Paper Award. 36th New England Statistics Symposium, Jun. 2023\nSummer Fellowship. Department of Statistics, University of Connecticut, Jun. 2023\nFairfield & Dolores Smith Award. Department of Statistics, University of Connecticut, Oct. 2022\nGottfried Noether Award. Department of Statistics, University of Connecticut, Oct. 2022\nMunich RE/HSB Student Poster Award. 34th New England Statistics Symposium, Sep. 2021\nBest student paper (2nd class). 15th seminar of Uniform design Profession Commitee of CMS, Jun. 2021\nAdmission scholarship. Academy of Mathematics and Systems Science, CAS, Sep. 2018\nDistinguished Graduates. Central South Univerisity, Jun. 2018\nNational scholarship. Central South University, Nov. 2017\nFirst class prize. National Mathematics Competition for College Students, Nov. 2016\nHonorable Mention in Probability and Statistics. 2016 S.T. Yau College Mathematics Contests, Jul. 2016\n\n\n\nConference Presentations\n\nSubsampling for transfer learning, 37th New England statistis symposium, University of Connecticut, Storrs, Connecticut, May 24, 2024\nScale-invariant optimal sampling and variable selection with rare-events data, 2023 seminar on design of experiments and uncertainty quantification, Academy of mathematics and Systems Science, Chinese Academy of Sciences, Jun. 25 2023\nScale-invariant optimal sampling and variable selection with rare-events data, 6th international conference on design of experiments, University of Memphis, Memphis, Tennessee, May 9-11, 2023\nUnweighted estimation based on optimal sample under measurement constraints, 2022 joint statistical meetings, Washington D.C., August 6-11, 2022\nUnweighted estimation based on optimal sample under measurement constraints, 15th seminar of Uniform design Profession Committee of CMS, Zhongnan University of Economics and Law, Wuhan, China, Jun., 2021"
   },
   {
-    "objectID": "pubs.html",
-    "href": "pubs.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jing Wang",
     "section": "",
-    "text": "Publications\n\n\n\n\n\nWang, J., Wang, H., & Zhang, H. H. (n.d.). Scale-invariant optimal sampling for rare-events data with sparse models. Neural Information Processing Systems 2024, to Appear.\n\n\nWang, J., Wang, H., & Xiong, S. (2024). Unweighted estimation based on optimal sample under measurement constraints. Canadian Journal of Statistics, 52(1), 291–309.\n\n\nWang, J., Wang, H., & Chen, K. (2023). Discussion of “Statistical inference for streamed longitudinal data”. Biometrika, 110(4), 863–866.\n\n\nWang, J., Zou, J., & Wang, H. (2022). Sampling with replacement vs poisson sampling: A comparative study in optimal subsampling. IEEE Transactions on Information Theory, 68(10), 6605–6630."
+    "text": "Hello, I’m Jing Wang, a Ph.D. student in the Department of Statistics at Univerisity of Connecticut. My research focuses on subsampling algorithms, rare-events data analysis, and transfer learning. I am currently working as a teaching assistant and a research assistant in the Department of Statistics at Uconn.\n\nEducation\n\nUniversity of Connecticut, Sep. 2021-present\nPh.D. student in Statistics\nAcademy of Mathematics and Systems Science,\nChinese Academy of Sciences, Sep. 2018-Jun. 2021\nM.S. in Statistics\nCentral South University, Sep. 2014-Jun. 2018\nB.S. in Mathematics and applied mathematics\n\n\n\nPositions\n\nDepartment of statistics, University of Connecticut,\nResearch assistant, Storrs, CT, Jan., 2022-present\nDepartment of statistics, University of Connecticut,\nTeaching assistant, Storrs, CT, Sep., 2021-present\nAcademy of Mathematics and Systems Science,\nChinese Academy of Sciences,\nResearch assistant, Beijing, China, Sep., 2019-Jun.2021\n\n\n\nTeaching Experiences\n\nSTAT 1100Q. Elements of Statistics (018D,032D), Spring 2023\nSTAT 1000Q. Introduction to Statistics I (027D-029D), Fall 2022\n\n\n\nSkills\n\nProgramming languages: julia, R, python, Matlab\nEditorial tool: LaTeX, Emacs, VS code\nOther tools: Linux, git, github"
   },
   {
     "objectID": "publications.html",
