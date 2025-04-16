@@ -11,7 +11,7 @@ about:
     - text: Email
       href: mailto:jing.7.wang@uconn.edu
     - text: Google scholar
-      href: https://scholar.google.com/citations?user=SSwQQ5EAAAAJ&hl=en
+      href: https://scholar.google.com/citations?hl=en&user=gVxQdZMAAAAJ
 ---
 
 Hello, I'm Jing Wang, a Ph.D. student in the Department of Statistics at Univerisity of Connecticut. My research focuses on subsampling algorithms, rare-events data analysis, and transfer learning. I am currently working as a teaching assistant and a research assistant in the Department of Statistics at Uconn.
